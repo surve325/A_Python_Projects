@@ -55,5 +55,5 @@ obj1.Deposite()
 obj2 = Bank_Account(1566,"Rockey",87000)
 obj2.display()
 obj2.Withdrawal()
-obj2.display()
+obj2.display
 obj2.Deposite()
